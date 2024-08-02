@@ -1,6 +1,6 @@
 <div align="center">
   <img src="./assets/img/image.gif" alt="Icreatechs Logo">
-  <h3>IT CURRICULUM GUIDE</h3>
+  <h3>IT CURRICULUM GUIDE BY CASTANAS</h3>
   <div align="center">
 
 [![GitHub Stars](https://img.shields.io/github/stars/carlcastanas/IT-curriculum-guide)](https://github.com/carlcastanas/IT-curriculum-guide/stargazers)
